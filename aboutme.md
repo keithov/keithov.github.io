@@ -4,14 +4,12 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Keith Osores, I am from Lima-Peru and I love learning new languages and keeping up to date with the digital health advances. Have a look at my background below!
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Biomedical Engineering degree at UB (2019 - 2024)
+- Inter-university Master's Degree in Health Data Science (MHEDAS) at URV (2025 - present)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- IT intern working on R&D at AIS Channel (2023)
