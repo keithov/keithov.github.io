@@ -4,7 +4,6 @@ title: Cloud Computing in Biomedicine
 subtitle: Digital Twins in Cardiovascular Research
 cover-img: /images/Figure_digital_twins_cardiology.jpg
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [Digital twins, Generative artificial intelligence, Multi-modal models, Precision medicine]
 comments: true
 mathjax: true
